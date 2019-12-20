@@ -1,16 +1,12 @@
 # Grid
 
-Import `grid.sass` to project.
+Import `grid.sass` to project.<br/>
+In `_grid-parameters.sass` all static sizes for each breakpoint.<br/>
+In `_variables.sass` add css variables responsive values if necessary.
 
-In `_grid-parameters.sass` all static sizes for each breakpoint
-
-In `_variables.sass` add css variables responsive values if necessary
-
-# Basic usage
-In the project must be initialized breakpoints mixins:
-
-`+xl, +lg, +md, +sm, +xs, +xxs, +xlmin, +lgmin, +mdmin, +smmin, +xsmin, +xxsmin`
-
+### Basic usage
+In the project must be initialized breakpoints mixins:<br/>
+`+xl, +lg, +md, +sm, +xs, +xxs, +xlmin, +lgmin, +mdmin, +smmin, +xsmin, +xxsmin`<br/>
 such as
 
 ```sass
