@@ -11,7 +11,7 @@ such as
 
 ```sass
 =xl
-  @media (min-width: 1399 + "px")
+  @media (max-width: 1399 + "px")
     @content
 =xlmin
   @media (min-width: 1400 + "px")
