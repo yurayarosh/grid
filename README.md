@@ -19,6 +19,7 @@ such as
 ```
 
 Grid columns must have `.grid` wrapper and class `.col`
+Columns mods: `.col--xl-1, .col--lg-1, .col--md-1, .col--sm-1, .col--xs-1, .col--xxs-1, .col--1`
 
 ```html
 <div class="grid {grid--mod}">
