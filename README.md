@@ -18,7 +18,7 @@ such as
     @content
 ```
 
-Grid columns must have `.grid` wrapper and class `.col`
+Grid columns must have `.grid` wrapper and class `.col`<br/>
 Columns mods: `.col--xl-1, .col--lg-1, .col--md-1, .col--sm-1, .col--xs-1, .col--xxs-1, .col--1`
 
 ```html
